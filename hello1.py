@@ -5,7 +5,7 @@ wumpus_location = choice(cave_numbers)
 player_location = choice(cave_numbers)
 while player_location == wumpus_location:
 	player_location = choice(cave_numbers)
-
+#comment
 print "Welcome to Hunt the Wumpus!"
 print "You can see", len(cave_numbers), " caves"
 print "To play, just type the number"
