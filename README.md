@@ -10,12 +10,14 @@
 1. player location
 2. Wumpus location
 
-![Testing image][3]
+
 
 # References:
 1. [Learning Markdown][1]
 2. [HPU Digital Library][2]
 
+
+![Testing image][3]
 
 [1]: http://adamferguson.github.com/learning/2012/01/31/learning-markdown/
 [2]: http://lib.hpu.edu.vn
