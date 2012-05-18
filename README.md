@@ -10,7 +10,7 @@
 1. player location
 2. Wumpus location
 
-[Testing image][3]
+![Testing image][3]
 
 # References:
 1. [Learning Markdown][1]
