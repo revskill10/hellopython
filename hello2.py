@@ -7,5 +7,3 @@ print shopping_list
 print shopping_list[0]
 
 print shopping_list[1]
-
-print shopping_list[2]
