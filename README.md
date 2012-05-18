@@ -11,9 +11,9 @@
 2. Wumpus location
 
 # References:
-[Learning Markdown](1)
-[HPU Digital Library](2)
+1. [Learning Markdown][1]
+2. [HPU Digital Library][2]
 
 
-* [1]: http://adamferguson.github.com/learning/2012/01/31/learning-markdown/
-* [2]: http://lib.hpu.edu.vn
+[1]: http://adamferguson.github.com/learning/2012/01/31/learning-markdown/
+[2]: http://lib.hpu.edu.vn
