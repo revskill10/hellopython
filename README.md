@@ -22,3 +22,5 @@
 [1]: http://adamferguson.github.com/learning/2012/01/31/learning-markdown/
 [2]: http://lib.hpu.edu.vn
 [3]: http://vnexpress.net/Files/Subject/3b/bd/6f/7e/tai-nan-3.jpg
+
+**UPD:** I don't really think you should merge this. :) But I [had to](https://www.facebook.com/groups/rubylearning/404455379614376/) choose *something* to fork.
